@@ -1,0 +1,7 @@
+DATA ANALYSIS WITH PYHTON(POLICE DATASET)
+
+
+1. We have take a dataset of weather which contains about 655535 rows.
+2. The data is available as a csv file downlaoded from kaggle.
+3. We will analyze this data using pandas library.
+4. The data is from a police  check post is given.
